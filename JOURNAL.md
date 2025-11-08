@@ -9,21 +9,22 @@
 ## 11/8/2025 - planning...  
 
 features i want it to have:
-- esp32-s3 chip with cool working wifi/bluetooth![large](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTYxNywicHVyIjoiYmxvYl9pZCJ9fQ==--c33a48c3c9285601b414456b420d59a86983be1c/large.JPG)
+-esp32-s3 chip with cool working wifi/bluetooth
+![large](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTYxNywicHVyIjoiYmxvYl9pZCJ9fQ==--c33a48c3c9285601b414456b420d59a86983be1c/large.JPG)
 
-- usbc 100w power, charging to lipo battery (not actually 100w) while running off of usb power or battery, esd protection
-- multiplexer
-- imu
-- oled screen
-- temperature sensing
-- touch sensor
-- microphone + speaker
-- espcam module
-- bunch of leds
-- 5v output
-- ir blaster
-- buttons
-- ultrasonic sensor
-- sd card reader
-- headers for 3v3, 5v, 9v, 12v  
+-usbc 100w power, charging to lipo battery (not actually 100w) while running off of usb power or battery, esd protection
+-multiplexer
+-imu
+-oled screen
+-temperature sensing
+-touch sensor
+-microphone + speaker
+-espcam module
+-bunch of leds
+-5v output
+-ir blaster
+-buttons
+-ultrasonic sensor
+-sd card reader
+-headers for 3v3, 5v, 9v, 12v  
 
