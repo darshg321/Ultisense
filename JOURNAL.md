@@ -31,6 +31,7 @@ features i want it to have:
 ## 11/8/2025 11 PM - bom  
 
 -esp32-s3-wroom MCU
+-CP2102 UART chip
 -GY-87 IMU
 -TTP223 touch sensor
 -LM75A temperature sensor
