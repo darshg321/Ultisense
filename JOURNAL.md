@@ -6,7 +6,7 @@
   ==================================================================
 -->
 
-## 11/8/2025 - planning...  
+## 11/8/2025 6 PM - planning...  
 
 features i want it to have:
 -esp32-s3 chip with cool working wifi/bluetooth
@@ -27,4 +27,35 @@ features i want it to have:
 -ultrasonic sensor
 -sd card reader
 -headers for 3v3, 5v, 9v, 12v  
+
+## 11/8/2025 11 PM - bom  
+
+-esp32-s3-wroom MCU
+-GY-87 IMU
+-TTP223 touch sensor
+-LM75A temperature sensor
+-MSM261DGT003 microphone
+-HC-SR04 ultrasonic sensor
+-OV5640 camera
+-TS-1088-AR02016 buttons
+-SSD1306 OLED screen
+
+audio: 
+-PAM8403 amplifier
+-8ohm 1W speaker
+
+led: KT-0603R
+sd: TF PUSH
+nfc: PN532 module
+multiplexer: CD4051BM96
+
+power:
+-TYPE-C-31-M-12
+-BQ24075 charger
+-2 pin jst housing (for batt)
+-AP2112K-3.3 3v3 LDO
+-TPS61023DRLT boost converter
+
+![ultisense](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTY2NywicHVyIjoiYmxvYl9pZCJ9fQ==--0847e56648b9b9785ad4f0b30aff02677a425820/ultisense.png)
+  
 
