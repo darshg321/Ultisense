@@ -60,7 +60,7 @@ power:
 ![ultisense](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTY2NywicHVyIjoiYmxvYl9pZCJ9fQ==--0847e56648b9b9785ad4f0b30aff02677a425820/ultisense.png)
   
 
-## 11/9/2025 - added power path  
+## 11/9/2025 10 PM - added power path  
 
 added all of my power path stuff
 flow:
@@ -71,5 +71,12 @@ output goes to TPS61023, 5v boost to 5v rail
 also goes to an ldo which outputs to 3v3 rail
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTk0OSwicHVyIjoiYmxvYl9pZCJ9fQ==--f28dd2866d651f976abf013c1c8b84bc3b3de979/image.png)
+  
+
+## 11/9/2025 11 PM - mcu + multiplexer + sd card  
+
+added mcu buttons and multiplexer (using mcp23017 bc other one is analog), and also wired the sd card. thats it basically; using i2c for multiplexer and spi for sd card
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTk1NywicHVyIjoiYmxvYl9pZCJ9fQ==--7db53ec3974ccc23077ea84feea1de2d1cad54ab/image.png)
   
 
