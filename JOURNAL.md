@@ -60,3 +60,16 @@ power:
 ![ultisense](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTY2NywicHVyIjoiYmxvYl9pZCJ9fQ==--0847e56648b9b9785ad4f0b30aff02677a425820/ultisense.png)
   
 
+## 11/9/2025 - added power path  
+
+added all of my power path stuff
+flow:
+usb 2.0
+data goes through esd protection, to mcu data
+vbus goes to BQ24075 which charges at 500mA and has two leds for status, outputs usb if connected otherwise battery
+output goes to TPS61023, 5v boost to 5v rail
+also goes to an ldo which outputs to 3v3 rail
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTk0OSwicHVyIjoiYmxvYl9pZCJ9fQ==--f28dd2866d651f976abf013c1c8b84bc3b3de979/image.png)
+  
+
