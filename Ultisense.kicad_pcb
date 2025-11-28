@@ -235,7 +235,7 @@
 			(uuid "80b30e09-21e8-46e6-a4a4-ea2b21e4e6ea")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -428,7 +428,7 @@
 			(uuid "e8c09a33-d848-4b6e-907c-ecb6a24af50e")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -616,12 +616,12 @@
 		(descr "Resistor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R7"
-			(at 0 -1 90)
+			(at 0 -1.44 90)
 			(layer "F.SilkS")
 			(uuid "b5d28123-922b-421a-b42c-5338822ce073")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -809,12 +809,12 @@
 		(descr "Capacitor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C11"
-			(at 0 -1 0)
+			(at -1.435 0.0125 0)
 			(layer "F.SilkS")
 			(uuid "4054323d-5875-4642-be76-3c3398ee3a7d")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -1002,12 +1002,12 @@
 		(descr "Capacitor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C24"
-			(at 0 -1 0)
+			(at -1.375 0.05 0)
 			(layer "F.SilkS")
 			(uuid "beca111f-4d30-4627-b5a4-88c546c37179")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -1193,12 +1193,12 @@
 		(uuid "10ab82b5-657a-4454-848d-315b32921c77")
 		(at 138.6 123.4 180)
 		(property "Reference" "L1"
-			(at 0 -4 0)
+			(at 0 2.55 0)
 			(layer "F.SilkS")
 			(uuid "2483531f-b196-4d63-ba20-61bd2ca7f25c")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -1363,12 +1363,12 @@
 		(descr "Resistor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R11"
-			(at 0 -1 90)
+			(at 0 -0.84145 90)
 			(layer "F.SilkS")
 			(uuid "dfdac78c-cd40-4225-bad9-664b1594759b")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -1556,12 +1556,12 @@
 		(descr "Capacitor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C2"
-			(at 0 -1 90)
+			(at -1.125 0 90)
 			(layer "F.SilkS")
 			(uuid "e9f7034c-d614-4c31-95a1-172a6a3de710")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -1749,12 +1749,12 @@
 		(descr "Capacitor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C13"
-			(at 0 -1 0)
+			(at -1.385 0.0125 0)
 			(layer "F.SilkS")
 			(uuid "ba6f660d-11e4-4eed-b225-8571782d0e3b")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -1940,13 +1940,13 @@
 		(uuid "18492f21-6981-48ab-9c58-56b3b4ae5dac")
 		(at 162.4 119.5 90)
 		(property "Reference" "U12"
-			(at 0 -12.7 90)
+			(at 0 -2.45 90)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "f12fc188-d454-4640-a3a8-b16dc45f0d0d")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.1)
 				)
 			)
@@ -2069,12 +2069,12 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C18"
-			(at 0 -1.43 0)
+			(at 0 -1.1375 0)
 			(layer "F.SilkS")
 			(uuid "78181da7-cab6-463f-b3d7-a16bdf1fe700")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -2266,12 +2266,12 @@
 		(uuid "21c6f678-9aef-4996-8637-ad9db4a09b19")
 		(at 156.0925 119.5375 180)
 		(property "Reference" "U10"
-			(at 0 -6.7 0)
+			(at 2.9925 -0.0125 90)
 			(layer "F.SilkS")
 			(uuid "bf04364c-b73d-45a9-8f99-56bbbf8403f6")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -2616,12 +2616,12 @@
 		(descr "Capacitor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C27"
-			(at 0 -1 90)
+			(at -1.45 0.05 90)
 			(layer "F.SilkS")
 			(uuid "0c340004-4014-46bf-912f-5166e8f4c656")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -2809,12 +2809,12 @@
 		(descr "Resistor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R8"
-			(at 0 -1 90)
+			(at -1.175 -0.7 90)
 			(layer "F.SilkS")
 			(uuid "45cf8a11-ef47-40ea-8c25-7cd918f2f1f6")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -3002,12 +3002,12 @@
 		(descr "Capacitor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C30"
-			(at 0 -1 90)
+			(at -0.025 -0.69 90)
 			(layer "F.SilkS")
 			(uuid "c1bb4ebd-5dd1-4173-9bfa-919e787403f9")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -3195,12 +3195,12 @@
 		(descr "Resistor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R18"
-			(at 0 -1 0)
+			(at -0.1 -0.6375 0)
 			(layer "F.SilkS")
 			(uuid "f506a8bd-2e78-42ff-89be-193cc82e0061")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -3386,12 +3386,12 @@
 		(uuid "2fbd03c3-2cb9-4ca1-b891-9549f7bd40bc")
 		(at 158.3375 77.25)
 		(property "Reference" "U13"
-			(at 0 -4.2 0)
+			(at 0 -1 180)
 			(layer "F.SilkS")
 			(uuid "b738de60-6d4a-4ffa-b8fc-5b213eaace9c")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -3632,12 +3632,12 @@
 		(descr "Resistor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R6"
-			(at 0 -1 0)
+			(at 1.1 -0.05 0)
 			(layer "F.SilkS")
 			(uuid "8d42ad60-3594-4bf9-94fc-35e13a9a290c")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -3825,12 +3825,12 @@
 		(descr "SOIC, 28 Pin (JEDEC MS-013AE, https://www.analog.com/media/en/package-pcb-resources/package/35833120341221rw_28.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOIC SO")
 		(property "Reference" "U7"
-			(at 0 -9.9 0)
+			(at 0 9.855 0)
 			(layer "F.SilkS")
 			(uuid "3f9488ea-79b6-40ed-bb6a-143cc3c19574")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -4339,17 +4339,17 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C4"
-			(at 0 -1.43 90)
+			(at 2 0 90)
 			(layer "F.SilkS")
 			(uuid "4211568d-0018-43fb-90b2-9272585111f3")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
 		)
-		(property "Value" "4.7uF"
+		(property "Value" "10uF"
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(uuid "8d1d460d-0f56-4848-bf83-afdf0b216b4d")
@@ -4538,12 +4538,12 @@
 		(descr "Resistor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R1"
-			(at 0 -1 0)
+			(at 0 -0.6875 0)
 			(layer "F.SilkS")
 			(uuid "e06891e8-f41d-4634-8da4-33ca28210811")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -4731,12 +4731,12 @@
 		(descr "Capacitor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C20"
-			(at 0 -1 0)
+			(at 1.46 -0.05 0)
 			(layer "F.SilkS")
 			(uuid "433ebeca-4256-4c2a-bced-44fa9ebd6d94")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -4929,7 +4929,7 @@
 			(uuid "850cc053-361f-4e06-a103-8551b3333799")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -5158,12 +5158,12 @@
 		(descr "TSSOP, 20 Pin (JEDEC MO-153 Var AC https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "TSSOP SO")
 		(property "Reference" "U9"
-			(at 0 -4.2 90)
+			(at 0 -3.935 90)
 			(layer "F.SilkS")
 			(uuid "cb2ecee8-ed18-425b-83e8-c36edf218025")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -5552,12 +5552,12 @@
 		(descr "Resistor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R14"
-			(at 0 -1 90)
+			(at -1.4 0 90)
 			(layer "F.SilkS")
 			(uuid "497df8c5-7aa9-45a7-874a-7b1a5d527ccf")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -5743,12 +5743,12 @@
 		(uuid "503d5257-a3ec-4d93-bf11-91ffcb54abf6")
 		(at 152.54 77.1)
 		(property "Reference" "U14"
-			(at 0 -5.01 0)
+			(at -2.14 0 90)
 			(layer "F.SilkS")
-			(uuid "0005543c-681b-49e5-aa50-a8530ffc1972")
+			(uuid "7053b23b-4984-4151-9f0a-4906414ed75b")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -5756,7 +5756,7 @@
 		(property "Value" "ICM-45605"
 			(at 0 5.01 0)
 			(layer "F.Fab")
-			(uuid "3b2f7b4e-7708-4e50-9769-5e223e6ff031")
+			(uuid "123e1656-1353-4fec-b3a4-f669c9f7a50e")
 			(effects
 				(font
 					(size 1 1)
@@ -5768,7 +5768,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "01375531-960b-4823-ace6-6ebe37391e05")
+			(uuid "601b022f-c29b-41dc-981f-8e70ecc14de8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5780,7 +5780,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4a777040-eccc-4b81-b5a8-3ef30d28714d")
+			(uuid "d49f8134-5dd6-45a9-823d-4e80c05b9b15")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6075,12 +6075,12 @@
 		(descr "SMD capacitor, aluminum electrolytic, Nichicon, 5.0x5.3mm")
 		(tags "capacitor electrolytic")
 		(property "Reference" "C8"
-			(at 0 -3.7 90)
+			(at 0 3.41 90)
 			(layer "F.SilkS")
 			(uuid "8dc88cea-1b09-4b99-8c40-1579674e466d")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -6505,12 +6505,12 @@
 		(descr "Capacitor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C36"
-			(at 0 -1 0)
+			(at -1.385 0.0125 0)
 			(layer "F.SilkS")
 			(uuid "3d3380c8-c6f1-4d5f-856b-2a17729135a8")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -6696,12 +6696,12 @@
 		(uuid "576f166e-02c8-4c5f-9edd-f6a0ae2b7383")
 		(at 159.66 79.25 90)
 		(property "Reference" "U16"
-			(at 0 -4.79 90)
+			(at 0 -1.56 90)
 			(layer "F.SilkS")
 			(uuid "3a0e88ac-dd34-4edc-a181-8c90c90043d1")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -6923,12 +6923,12 @@
 		(descr "Through hole straight socket strip, 2x08, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated")
 		(tags "Through hole socket strip THT 2x08 2.54mm double row")
 		(property "Reference" "J7"
-			(at -1.27 -2.77 0)
+			(at -5.14 -1.325 0)
 			(layer "F.SilkS")
 			(uuid "f6e15d77-ac2d-4156-9bc5-113338901e82")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -7350,12 +7350,12 @@
 		(descr "USB Type-C receptacle for USB 2.0 and PD, http://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf")
 		(tags "usb usb-c 2.0 pd")
 		(property "Reference" "J1"
-			(at 0 -5.645 0)
+			(at -4.9125 -5.645 0)
 			(layer "F.SilkS")
 			(uuid "de15b284-83f1-4e6c-8c6a-ec4b0de319e4")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -7763,17 +7763,17 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C5"
-			(at 0 -1.43 90)
+			(at 2.05 0 90)
 			(layer "F.SilkS")
 			(uuid "2c52bacc-e630-45af-82a1-02451ea7682c")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
 		)
-		(property "Value" "4.7uF"
+		(property "Value" "10uF"
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(uuid "3c2e18fb-d1d0-46a6-8838-7ceaf39a3640")
@@ -7962,12 +7962,12 @@
 		(descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D4"
-			(at 0 -1.43 0)
+			(at -1.87895 -0.01 90)
 			(layer "F.SilkS")
 			(uuid "f320202f-63df-4dba-9890-e03f06cfebb7")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -8199,7 +8199,7 @@
 			(uuid "ce193fef-158a-4a05-bcf9-08028171422f")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -8399,12 +8399,12 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "TH1"
-			(at 0 -1.43 0)
+			(at 0 1.15 0)
 			(layer "F.SilkS")
 			(uuid "3f3f6cec-f56f-4960-a5ed-e470dcb7a486")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -8598,17 +8598,17 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C7"
-			(at 0 -1.43 90)
+			(at -2.025 0 90)
 			(layer "F.SilkS")
 			(uuid "a5175ee8-f676-4690-9b5f-c0f04d690110")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
 		)
-		(property "Value" "4.7uF"
+		(property "Value" "10uF"
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(uuid "bd3e3a5d-802f-44b8-a748-7198c1f2a8b4")
@@ -8803,7 +8803,7 @@
 			(uuid "3a728e59-2608-41f6-91cb-4e4b5671421e")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -9728,12 +9728,12 @@
 		(uuid "6e83278c-9d87-4d0d-b99a-a23087c34c7d")
 		(at 138.95 126.5)
 		(property "Reference" "U2"
-			(at 0 -4.5 0)
+			(at 0 1.25 0)
 			(layer "F.SilkS")
 			(uuid "047a0171-f114-42c6-bb64-af63c98ce1d0")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -9915,12 +9915,12 @@
 		(descr "Resistor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R15"
-			(at 0 -1 0)
+			(at 0.05 -0.6375 0)
 			(layer "F.SilkS")
 			(uuid "d4a1b574-9fba-4f50-9ce0-6b4bc70b7174")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -10109,10 +10109,11 @@
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "573963ec-79a9-4a0a-988c-b8cf7a31d800")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -10158,7 +10159,7 @@
 		(sheetname "/")
 		(sheetfile "Ultisense.kicad_sch")
 		(zone_connect 2)
-		(attr smd exclude_from_pos_files allow_missing_courtyard)
+		(attr smd exclude_from_pos_files exclude_from_bom allow_missing_courtyard)
 		(net_tie_pad_groups "1,2")
 		(fp_line
 			(start 12.75 0)
@@ -10408,12 +10409,12 @@
 		(uuid "740b2dee-8329-417d-9ae6-1162fc69bb8f")
 		(at 166.14145 70.28)
 		(property "Reference" "SW2"
-			(at 0 -4 0)
+			(at 3.20855 0.02 90)
 			(layer "F.SilkS")
 			(uuid "d058222e-c360-43ce-a30f-06294efb40a5")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -10568,12 +10569,12 @@
 		(descr "Capacitor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C33"
-			(at 0 -1 90)
+			(at -1.4 0.06 90)
 			(layer "F.SilkS")
 			(uuid "11fe00d4-1b6f-41ab-8e9d-67acd2f99037")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -10761,12 +10762,12 @@
 		(descr "Capacitor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C12"
-			(at 0 -1 0)
+			(at -1.385 0.0125 0)
 			(layer "F.SilkS")
 			(uuid "5eceeecd-5ec2-4e96-95a9-622d92d160b3")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -10952,12 +10953,12 @@
 		(uuid "7f05ef87-8ba5-425e-a63a-cd2fb63ea698")
 		(at 158.2 132.8375)
 		(property "Reference" "J3"
-			(at 0 -9.3 0)
+			(at 5.15 -5.8875 0)
 			(layer "F.SilkS")
 			(uuid "bc05dbdb-5deb-4c90-b381-1fc26d97e4d2")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -11306,12 +11307,12 @@
 		(descr "Through hole straight pin header, 2x01, 2.54mm pitch, double rows")
 		(tags "Through hole pin header THT 2x01 2.54mm double row")
 		(property "Reference" "LS2"
-			(at 1.27 -2.38 90)
+			(at 5.025 -1.4 90)
 			(layer "F.SilkS")
 			(uuid "39a8da59-f6cc-4042-9d11-5c4d5b826d55")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -11578,12 +11579,12 @@
 		(descr "Capacitor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C6"
-			(at 0 -1 90)
+			(at 0 -0.7 90)
 			(layer "F.SilkS")
 			(uuid "a20261e8-3ee9-4186-8ae8-c99916b348c8")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -11771,12 +11772,12 @@
 		(descr "Through hole straight pin header, 2x02, 2.54mm pitch, double rows")
 		(tags "Through hole pin header THT 2x02 2.54mm double row")
 		(property "Reference" "J6"
-			(at 1.27 -2.38 0)
+			(at -2.56 -1.33 0)
 			(layer "F.SilkS")
 			(uuid "e2bd31e3-8ef5-4b66-8927-a2adea8cf916")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -12064,12 +12065,12 @@
 		(uuid "84fb578f-8155-4b9a-a7bc-cbe773d435c7")
 		(at 166.14145 73.61)
 		(property "Reference" "SW3"
-			(at 0 -4 0)
+			(at 3.15855 -0.06 270)
 			(layer "F.SilkS")
 			(uuid "d57a26f5-d4d9-4c52-9320-b373c013cb43")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -12224,12 +12225,12 @@
 		(descr "Capacitor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C31"
-			(at 0 -1 90)
+			(at 1.375 0 90)
 			(layer "F.SilkS")
 			(uuid "552b4cde-6397-4421-97f8-71e091119f28")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -12417,12 +12418,12 @@
 		(descr "Capacitor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C29"
-			(at 0 -1 90)
+			(at -1.45 0.04 90)
 			(layer "F.SilkS")
 			(uuid "6ac2ba05-8ece-4a63-b884-d239d45f2097")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -12610,17 +12611,17 @@
 		(descr "Resistor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R13"
-			(at 0 -1 0)
+			(at -0.01645 0.78 0)
 			(layer "F.SilkS")
 			(uuid "78c1e2a2-4c6c-4e46-9c2d-d2f39c97e00b")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
 		)
-		(property "Value" "330"
+		(property "Value" "470"
 			(at 0 1 0)
 			(layer "F.Fab")
 			(uuid "21f09d41-65ac-4644-b5e3-371f7a3b217d")
@@ -12803,12 +12804,12 @@
 		(descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D1"
-			(at 0 -1.43 90)
+			(at 0 1.15 90)
 			(layer "F.SilkS")
 			(uuid "5cbbc7ab-e2e4-4ee9-aeed-d7f004675f7a")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -13037,12 +13038,12 @@
 		(descr "Capacitor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C28"
-			(at 0 -1 90)
+			(at 1.325 0 90)
 			(layer "F.SilkS")
 			(uuid "b35fb7f0-7cf8-4cb1-af48-be219a29654a")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -13230,12 +13231,12 @@
 		(descr "Capacitor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C25"
-			(at 0 -1 0)
+			(at 0 -0.7 0)
 			(layer "F.SilkS")
 			(uuid "9eaa8cf3-4517-4b08-ac6d-9e889c807cf2")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -13423,12 +13424,12 @@
 		(descr "Capacitor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C32"
-			(at 0 -1 0)
+			(at -1.375 0 0)
 			(layer "F.SilkS")
 			(uuid "b46dbb5c-fed3-4771-ac6a-b2e25734a2ec")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -13616,12 +13617,12 @@
 		(descr "Capacitor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C23"
-			(at 0 -1 0)
+			(at -1.385 0.05 0)
 			(layer "F.SilkS")
 			(uuid "7ca2f589-bf95-412d-9710-794fa0d63d2f")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -13809,12 +13810,12 @@
 		(descr "Through hole straight pin header, 2x01, 2.54mm pitch, double rows")
 		(tags "Through hole pin header THT 2x01 2.54mm double row")
 		(property "Reference" "LS1"
-			(at 1.27 -2.38 90)
+			(at 5.025 -1.4 90)
 			(layer "F.SilkS")
 			(uuid "19bcf716-3781-4988-bf20-c4975c656fc5")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -14086,7 +14087,7 @@
 			(uuid "e06ebfc2-a4c8-43a5-b9c5-0738fefc6566")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -14334,12 +14335,12 @@
 		(descr "Capacitor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C10"
-			(at 0 -1 90)
+			(at 1.35 0 90)
 			(layer "F.SilkS")
 			(uuid "295d7677-a199-4647-a12e-855cc4fc8f6f")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -14532,7 +14533,7 @@
 			(uuid "ef18fb23-4ef2-4d8a-9ac7-c010931264e4")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -14720,12 +14721,12 @@
 		(descr "Capacitor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C14"
-			(at 0 -1 0)
+			(at -1.385 0 0)
 			(layer "F.SilkS")
 			(uuid "37a44ddb-e1cd-49dd-aa66-7d923e747afa")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -14911,12 +14912,12 @@
 		(uuid "af8cdbe4-1da7-4531-8abe-8c58c0f3d010")
 		(at 152.2 81.35)
 		(property "Reference" "U17"
-			(at 0 -4.8 0)
+			(at 0.075 -1.65 0)
 			(layer "F.SilkS")
 			(uuid "67e0df07-022c-4e92-b0c1-361132cf0ec4")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -15120,12 +15121,12 @@
 		(descr "Resistor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R19"
-			(at 0 -1 0)
+			(at 0 -0.6875 0)
 			(layer "F.SilkS")
 			(uuid "c221fccc-3a6f-46c4-b88b-7143ab7d3600")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -15313,12 +15314,12 @@
 		(descr "SOT666")
 		(tags "SOT-666")
 		(property "Reference" "U6"
-			(at 0 -2 90)
+			(at -0.0125 -1.5125 90)
 			(layer "F.SilkS")
 			(uuid "9b7f6760-1edd-4d35-8538-793693af1e48")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -15588,12 +15589,12 @@
 		(descr "Resistor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R17"
-			(at 0 -1 90)
+			(at 0 -1.36 90)
 			(layer "F.SilkS")
 			(uuid "9e42839c-c5e3-4e75-a459-30f6b01aa37b")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -15781,12 +15782,12 @@
 		(descr "Capacitor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C21"
-			(at 0 -1 0)
+			(at 1.415 0 0)
 			(layer "F.SilkS")
 			(uuid "cd8ac091-602c-4ea2-a56e-2c5a8856ff46")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -15972,13 +15973,14 @@
 		(uuid "c891a43b-5553-4664-9a3f-618195121d64")
 		(at 154.5 99.7)
 		(property "Reference" "U15"
-			(at 0 -11 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "0068e87f-273f-4d79-b471-149a76523104")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.1)
 				)
 			)
@@ -16024,7 +16026,7 @@
 		(path "/a94d228d-d419-449c-90fd-1ad094db8fd4")
 		(sheetname "/")
 		(sheetfile "Ultisense.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(fp_text user "${REFERENCE}"
 			(at 0 -8 0)
 			(unlocked yes)
@@ -16055,12 +16057,12 @@
 		(descr "SOP, 16 Pin (https://www.diodes.com/assets/Datasheets/PAM8403.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOP SO")
 		(property "Reference" "U8"
-			(at 0 -5.9 90)
+			(at 0 -0.085 90)
 			(layer "F.SilkS")
 			(uuid "cff2e29d-040c-491f-b602-b3c61cc6058c")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -16407,12 +16409,12 @@
 		(uuid "cdbf9298-ccdb-42f2-a8a0-a9a2ff1746ff")
 		(at 155.6 80.25)
 		(property "Reference" "U11"
-			(at 0 -4.4 0)
+			(at 0 -1.15 0)
 			(layer "F.SilkS")
 			(uuid "f00fdde9-6ef4-4e0d-a9f8-5e751c942b4d")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -16598,12 +16600,12 @@
 		(descr "Resistor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R5"
-			(at 0 -1 90)
+			(at 1.1 0.1 90)
 			(layer "F.SilkS")
 			(uuid "61e5046f-4b16-47fc-8c04-9476de4f26a9")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -16791,12 +16793,12 @@
 		(descr "Resistor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R10"
-			(at 0 -1 90)
+			(at 0 0.74145 90)
 			(layer "F.SilkS")
 			(uuid "07dc49db-9e0d-4436-bab4-1b30ae3f8fb0")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -16984,12 +16986,12 @@
 		(descr "Capacitor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C3"
-			(at 0 -1 0)
+			(at 0.075 0.7 0)
 			(layer "F.SilkS")
 			(uuid "d983e904-6781-4462-80af-c1097a501c4a")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -17177,12 +17179,12 @@
 		(descr "Capacitor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C26"
-			(at 0 -1 0)
+			(at -1.35 0 0)
 			(layer "F.SilkS")
 			(uuid "a4b678a7-e204-49c1-9e04-c7bdac57b178")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -17370,12 +17372,12 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C16"
-			(at 0 -1.43 90)
+			(at -2.275 0 90)
 			(layer "F.SilkS")
 			(uuid "e9aac281-324b-4cc5-ba49-ced06ee44a37")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -17569,12 +17571,12 @@
 		(descr "Capacitor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C9"
-			(at 0 -1 90)
+			(at -0.045 0.7 90)
 			(layer "F.SilkS")
 			(uuid "5f95b15b-5b52-42d0-9c88-c570e801f00c")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -17767,7 +17769,7 @@
 			(uuid "be17c990-7864-4dc4-b029-ee5ec647ab27")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -17955,12 +17957,12 @@
 		(descr "Capacitor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C34"
-			(at 0 -1 0)
+			(at 0 -0.7 0)
 			(layer "F.SilkS")
 			(uuid "89bc5794-7b20-4a21-be6a-a2646faf4d60")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -18148,12 +18150,12 @@
 		(descr "Resistor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R2"
-			(at 0 -1 0)
+			(at 1.1375 -0.0125 0)
 			(layer "F.SilkS")
 			(uuid "664f29c7-47be-4066-b83c-989b1d32ec78")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -18341,12 +18343,12 @@
 		(descr "Resistor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R20"
-			(at 0 -1 0)
+			(at 0 -0.6875 0)
 			(layer "F.SilkS")
 			(uuid "0104f720-0c3c-47d7-be87-c4f948d0db30")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -18534,12 +18536,12 @@
 		(descr "Through hole straight pin header, 2x08, 2.54mm pitch, double rows")
 		(tags "Through hole pin header THT 2x08 2.54mm double row")
 		(property "Reference" "J5"
-			(at 1.27 -2.38 0)
+			(at -2.46 -1.32 0)
 			(layer "F.SilkS")
 			(uuid "6f9b64b5-a0d0-447c-a79e-4c73dc50c61b")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -18961,12 +18963,12 @@
 		(descr "Resistor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R3"
-			(at 0 -1 0)
+			(at -0.0375 0.75 0)
 			(layer "F.SilkS")
 			(uuid "7d45647f-22fa-4bc5-a656-3958dcfe2e1d")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -19154,12 +19156,12 @@
 		(descr "Resistor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R9"
-			(at 0 -1 90)
+			(at 1.1 -0.7 90)
 			(layer "F.SilkS")
 			(uuid "2198fdac-de8b-423c-985f-eb501ac640bb")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -19347,12 +19349,12 @@
 		(descr "SOT, 5 Pin (JEDEC MO-178 Var AA https://www.jedec.org/document_search?search_api_views_fulltext=MO-178), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOT TO_SOT_SMD")
 		(property "Reference" "U4"
-			(at 0 -2.4 0)
+			(at 0 2.05 0)
 			(layer "F.SilkS")
 			(uuid "4ee9b560-5190-4226-8bc2-a77cd60daf7f")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -19591,12 +19593,12 @@
 		(descr "VQFN, 16 Pin (http://www.ti.com/lit/ds/symlink/cdclvp1102.pdf#page=28), generated with kicad-footprint-generator ipc_noLead_generator.py")
 		(tags "VQFN NoLead")
 		(property "Reference" "U3"
-			(at 0 -2.83 0)
+			(at -0.5875 2.5 0)
 			(layer "F.SilkS")
 			(uuid "37367f27-92e9-4756-838b-2526db413ae9")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -19991,7 +19993,7 @@
 			(uuid "06968b88-0530-4159-9f55-af033c9034d0")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.5 0.5)
 					(thickness 0.15)
 				)
 			)
@@ -20419,6 +20421,56 @@
 		(fill no)
 		(layer "Edge.Cuts")
 		(uuid "2aee3add-0991-4d0f-afae-f9f04017a2f1")
+	)
+	(gr_text "NFC"
+		(at 153.15 90.35 0)
+		(layer "F.SilkS")
+		(uuid "0023bc25-c6b0-48ef-8795-2e5e3e8eb818")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "TOUCH"
+		(at 152.15 100.2 0)
+		(layer "F.SilkS")
+		(uuid "02ee20de-89d2-4635-8205-6cbf1c1d636e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text ":)"
+		(at 168.05 137.95 270)
+		(layer "F.SilkS")
+		(uuid "2caa3b26-75ec-4010-bc34-b13ef4771e37")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.25)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "by darsh !!"
+		(at 126.9 138.85 0)
+		(layer "F.SilkS")
+		(uuid "f6bf65c6-96a3-46d3-aeb7-62e84321f5e3")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.375)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
 	)
 	(segment
 		(start 131.835 97.7375)
@@ -33790,420 +33842,6 @@
 				(xy 158.145521 51.8115)
 			)
 		)
-	)
-	(group ""
-		(uuid "1309960e-1c45-450f-b38a-35c4ed63d2aa")
-		(members "0c0240b1-b7c1-425e-9349-e7fd2502bc41" "110ceaab-aa80-4a5d-a171-d199c33833ee"
-			"3360de85-243a-4977-b9f3-f565dbd02057" "3b5fccee-d37d-43d3-bcc2-dbbc7198dbe8"
-			"4ae25a8e-3cd9-4921-8f25-eb909202ec6a" "5b72c4b2-e01e-4b80-be00-0c0cbcbac1c9"
-			"5e903d06-d575-4c50-b5e2-37e812ed45f9" "740b2dee-8329-417d-9ae6-1162fc69bb8f"
-			"84fb578f-8155-4b9a-a7bc-cbe773d435c7" "8a3ba096-bbd8-4e83-9fbf-30ecaedc99a6"
-			"cef4f984-967a-49ec-a076-3a5197a116bf" "d897dd25-8032-453a-b78f-e6e9e182feab"
-		)
-	)
-	(group ""
-		(uuid "57158f81-e52c-4359-9d1b-7da14c11762a")
-		(members "00f07484-aaa9-42e2-8f07-07ae6a4e8aa4" "0276ac60-0bd9-4e12-a201-de67b7868d6e"
-			"069460d9-3cdd-485e-8e78-228d30eb6cf7" "07b8b96d-0c2d-400a-a295-611cd3f2a515"
-			"08773150-ed7c-4acc-9ba6-46ef638779fa" "08922e5e-36f0-499e-814f-adf458e430e9"
-			"0b761da3-7e53-4889-a7d3-86c011a22b73" "14a6a1d6-a205-4184-a8e7-d3f379a3c87a"
-			"15841daf-9efa-4260-b104-80ff70fd491d" "1cb879f5-e4a0-4858-b6de-d911434f083e"
-			"243d957d-12db-4cbf-b7b4-65559feb098f" "2db56033-5c39-492d-a6d1-854698db373f"
-			"46e7a5a8-31af-4bf7-ab0f-8583cb8cb69a" "4982d2a6-7ea4-457a-baea-5aad2ecfc805"
-			"4e36b7fc-b66f-4063-9c52-249967872c36" "4f86259e-b571-4303-b4ec-9e67d47cbca1"
-			"509ddcc6-620f-4b5c-ae57-6671838db85e" "52d30cbd-4fc4-405a-be1f-849f52993518"
-			"557da8d4-4dd2-41e3-8217-9ae81a2768ad" "5619d7d8-3e26-449c-b0f0-60d204035c3a"
-			"642f8ff9-1ac5-4e84-9d20-1939ede5cd2b" "65e9aa95-370c-4289-9342-1660da5b1f2b"
-			"6d72f8ae-39d4-407d-8dfd-90d6ac4e2b12" "7066f02b-a19c-4957-a9b4-ce02971c8100"
-			"726f103f-f38e-4ab9-9bb5-70555e068360" "74995091-ee72-429e-96b3-a3440215eacc"
-			"7e43b7b8-4122-4c96-aade-10a4e373730c" "7e631274-24ea-4e39-9a4f-a8969ba4f16c"
-			"800176e4-b0a4-4d9d-927a-b13bc56f1583" "838d9c83-6376-447b-a030-a423328905c8"
-			"89cac2c6-cd22-4896-9aa8-c5c9294ce70f" "8d46be76-53ac-491f-9672-4359514ea387"
-			"8f3d0e0d-903b-44ca-844a-629e8900839f" "95b121fb-ac6c-48fa-a501-193c572533e6"
-			"96b0c440-a94f-420a-b21e-81ad2b7bb64e" "96fa0fc0-2956-43a9-a79d-d428e70df829"
-			"a70237ff-79af-45b4-a523-4427997cd18f" "aab1f6d3-19c3-4e4f-93cf-bce261227946"
-			"ad68cab1-5e53-40b5-8dbd-03c18cb25a2f" "aeca46f2-96f1-4dcb-b66d-a9686cb42444"
-			"b2e9fad5-7d06-4891-b79c-878141de405c" "b47a54c8-4e70-4935-b3d9-101b3cdd0c59"
-			"b5398bd3-c7da-40a7-b048-1fd5bbf05c02" "bf91a914-3e04-4f52-8465-526a5bc06583"
-			"c0b731c6-b416-4085-9015-c1e437814d28" "cd32c8f7-0cb9-4acf-8366-64aceea501e5"
-			"cee2173d-9c5e-4620-9e91-1763915f0184" "d1d9099d-a4fe-42d6-a35a-67dce43d68ea"
-			"d7dfccd3-a928-40da-ae62-e62f7d130478" "dc9a429c-7e56-4bf9-a057-045d96681e8c"
-			"e175d4b6-3c9d-4e9f-8425-693dd3de4b8e" "e4440d0f-5266-42e2-87fc-0ba8af99aeb2"
-			"e4568223-8ef2-4422-aea4-c0131822c30f" "e68fdc4c-7fef-4a96-b652-87c092c7bf31"
-			"e8be470c-5653-4cb3-ab33-fe41b7805cae" "ec661090-e07d-47d2-bca4-748c75b5360d"
-			"ecc0f2d0-8bd3-4def-809a-ca50be2b193e" "f3be6611-13b7-4b27-b79f-53d5f37d1df1"
-			"f692be2d-37b4-482e-bb4f-735c8ccb7958" "f7a998be-4b41-4ed6-965f-884c47cdf7b7"
-		)
-	)
-	(group ""
-		(uuid "d9d022a2-19ca-4f22-9925-5e7c87b35404")
-		(members "2c596e12-d4df-4c27-8d8e-1308e539d4fa" "417829a7-f42b-4cc4-962a-f071adc08fed"
-			"4c2e1723-7282-4320-b68f-34232ab8f5b1" "4e5a1ae4-dfaf-4501-90dd-ae0317194093"
-			"57db0752-282e-4dee-9c8b-f4f5fd834015" "7b535778-9999-4b23-bea2-67b61fe600e7"
-			"838f9ab0-c07e-4b13-975e-5c42d7dac61b" "8c564a72-1fb7-4698-94d4-9338c6902da4"
-			"a8505098-c8d6-47ef-aa39-4ee7f669354b" "b8c8762e-0052-43d1-ae8f-3224f090f6fa"
-			"d33469c6-ed90-4380-9086-4c04478dd7dd" "daeed0d3-969f-47a8-9d5a-aea5e5d1ca2f"
-		)
-	)
-	(group ""
-		(uuid "dacf82a9-2ecb-4060-8369-a229082b347d")
-		(members "09cf2bee-cf07-4dff-9a3b-7e39f239f6a9" "2ab99631-b425-47dd-be4a-1f0925809e8b"
-			"2d42ffe5-02ee-4dbd-a5f6-ca87f3d6fcf7" "3a3eaecd-fade-44c5-b687-ce8df0bfcc04"
-			"3e43cf13-ae29-40ed-973e-c4bfea7f762b" "6edc3557-cdcb-4ce9-bf5d-5b82b257a71f"
-			"7f05ef87-8ba5-425e-a63a-cd2fb63ea698" "9113a536-5aee-4ab0-a631-3ec17c7c22fe"
-			"980a143c-538c-4c7c-a709-f8e26edba246" "bb5b76fa-8a8e-49fd-8a6c-f8322ddcca41"
-			"e323f755-67e2-4f08-a430-1c786dfd7a2a" "f39af6d7-99a9-4bfe-a442-e011632b8a17"
-		)
-	)
-	(group ""
-		(uuid "2a4cf1d9-9575-4825-b6cf-8aa324c427e6")
-		(members "00d6334f-2f14-481f-81ee-13b5d2b1aaf4" "01392ad9-4e33-4f84-a833-b5501892bc11"
-			"020a1a64-8ebb-4ef6-9fe6-fee4fa0fea79" "020a3c02-9bbb-4c34-9f2d-a472c978315d"
-			"05687a0d-ac01-4668-8974-ab5ea788aa53" "06db1812-b6bc-4f37-a1e7-8aafafc12c7a"
-			"071f5c54-3367-4b7d-8c7f-170e38e3d9b0" "0a38dbd8-a5bb-4921-a517-e26fe8faf269"
-			"0b0010f2-bfa7-4acd-b5f7-176f86cdace6" "0b85272d-4ffa-419a-8992-e1a868555606"
-			"0d552e8f-b274-4eaf-a8ff-bb50d5c53a6a" "0df302d3-28cc-4f4f-b8f6-1b6b2d1f34fe"
-			"0e2ef0d0-d557-42df-898c-12f403d342c6" "0fbe67bf-f28c-4eff-997a-6e13a427a7d5"
-			"0febabb9-f6ab-48cc-bd03-b69ee430028f" "10ab82b5-657a-4454-848d-315b32921c77"
-			"132ae1c4-5ef5-4aa7-bef5-f6f17510cf40" "149572f5-6ee3-4477-89cb-ec9726f4a981"
-			"151db534-cc39-4865-8b5c-ed2ca8daea75" "15924d53-1938-48e4-98fc-c2525c8a7cec"
-			"15a174d0-6010-4d27-bc98-c9c7f95c06e3" "1733fba0-7d21-44cd-8885-bdbb853f4616"
-			"1735e039-919e-4f12-b825-fa698b90c6ff" "179314dd-a363-4914-a72c-e8dc2f8ecfd8"
-			"17db5e18-edac-4a22-8a56-e5af6beead4d" "1e07d65a-49dd-4edc-8f43-3cf1e366033c"
-			"1e9ea73d-79b3-4191-82e7-6e00dee90f93" "1fb3224a-35ad-47ce-a408-f538282257ec"
-			"1fc52a68-0d68-4d6e-b785-8c8045efb9ec" "240a19db-8fe4-4564-9f8e-c6e7629021ed"
-			"248e972d-a592-449c-8c8b-86dce0b1b644" "24ddf144-ec8e-45e8-b6f8-2a1ac4f553fa"
-			"25587cc3-0d30-4420-99b4-4ed731471b35" "26248404-25b2-4755-8e72-ecee07c25355"
-			"265ab125-f113-4136-93fa-22592c829bc3" "2755bdd4-f614-4783-81fc-2d287e376a5a"
-			"2a0cdcba-d8cb-4772-98e2-17bf98f9c404" "2cb0a89a-ffa8-42fa-bc8b-af7505ff8d03"
-			"2f6248ff-bacf-4a8f-9c30-298ecbcf5be0" "2f6952d6-cbd6-4d90-9d8e-68dca3d29aed"
-			"30c887f3-0bde-4b33-9d52-b624d904950e" "30d4bc99-8e96-4dfc-bf75-db6a40098028"
-			"318d0137-5e1d-4c50-b386-a1afb95f8e98" "32ccfe61-d4b2-4cb4-814c-116467b73784"
-			"32f53e6d-6dc1-4fe2-94aa-3e66006ad6fc" "352f0bfe-be4c-4333-bb01-ebc2f486c8bd"
-			"37316274-3e39-409a-b56e-c56fe5948143" "3e803195-e2c2-4d40-b832-2e8ebcc455c9"
-			"3eda5249-8362-4c87-aa1a-aa919de4013d" "427cb439-36b0-4e5e-97a8-41a935dda762"
-			"428dfcbd-0235-492a-828f-e07c169aadef" "44ada0db-ea21-4d01-873e-f83430fd964b"
-			"46aeeddd-0a3b-45a0-b45f-180e9f2ae0f4" "4756d2af-b49b-4d1f-b9aa-8d1a8388316e"
-			"48223cfd-b7e4-4d6a-9ebc-3ae0cfa58c8f" "48cca8ac-e576-4297-be3d-c9ef09ed33b9"
-			"48efcf74-3d49-48ec-b427-01ac976957de" "4b1bf37d-80e6-4512-bda2-9ee7ed809e0a"
-			"4f4213a9-ced0-4c57-ae40-083ed159beb6" "518ad898-627b-4d0d-a275-77da8921ecaf"
-			"52c8c0f6-7b7e-4e62-8e0c-dfba162eee87" "52d7d3de-9c79-4db4-8f3c-eb83259457ce"
-			"53c8aca4-4e0e-4112-95c9-300c23291aaf" "5628dc0c-202a-480b-b7df-f66230d975b8"
-			"564f3641-7cc1-4445-b4f3-3c9d13df12e6" "5905be65-9ab2-4cc2-93d7-9bc26e49a5e1"
-			"5b63c973-adb7-4e18-9194-f4c13274b44d" "5b84bbac-7c90-4eb4-9e0b-9ef0a2f368cf"
-			"5d2b4efe-acc7-407f-a08b-336f4287f68b" "5e50810a-bb3c-4600-9cb1-451256317ccd"
-			"5ed2fc76-361b-4fb2-b082-6ef1d0abfe0b" "614ce164-039a-49e9-9833-8089744cd792"
-			"63f8fbf8-18d5-4286-adcc-f06e5db6fd99" "65706515-7929-4662-b35c-74722c618cf1"
-			"65a9af53-7b35-4bb5-aee9-4070479855d4" "66d1e196-2e84-4405-ae5b-2d7ce34dfd72"
-			"6726b1a8-ac7e-4948-9632-fbaf7d0b41d2" "68189352-0f92-414d-b317-5f2268285a75"
-			"6b23805a-1ee2-4b1c-a481-bcf8cf50dd2b" "6cec0667-5c14-4a9b-83e3-62c2f86a7cbb"
-			"6cf2e54d-416e-45a0-b6e8-ff51196cd4ac" "6e83278c-9d87-4d0d-b99a-a23087c34c7d"
-			"7193c40c-7937-4c9c-8dea-7435fc8c2be3" "71da1e09-dbe5-4d4f-a98c-3962f21e6756"
-			"73684442-3cdf-44d7-b74d-024d3dbd74c8" "77279c22-e14c-484f-be5d-ca18dc64d834"
-			"786cee19-8c11-4af9-9448-37fccf57bacf" "7d712965-1c9e-4c52-9005-d6f4df858c93"
-			"7e1bfc67-2117-498a-ab09-6f507fa5b15d" "7fb1d24d-df92-4262-af10-c3506b5401b7"
-			"81053ef4-b4c1-4245-b136-f9504769c4a6" "8158461d-7ddd-4dd4-aa20-3d1a6fe94760"
-			"81f97716-40aa-425c-8d78-6ed3c7b94fa9" "820fb5e9-5b38-4333-9692-08df0f82964b"
-			"829d3ce4-b87b-4276-b4a3-6b2e1edd7cd5" "83d4bedb-241d-4dcc-9817-c97e3c7e37a5"
-			"854f8472-48f2-4d3e-b905-e854762e8351" "860574b0-33b4-49ce-8b62-59ff8f97f375"
-			"8b006450-e259-4905-b131-1aa085526551" "8bf87e26-ea01-49b1-9eae-708c27fd7382"
-			"91230b23-7230-4aef-bf24-49d5f7c02026" "91bf694f-c5c9-41e0-ab18-290357658435"
-			"91debc55-d5b9-4d09-a737-c3e008274e44" "9375dcf4-5426-4529-a718-65d1529a42eb"
-			"98ebfe35-dbc9-4e24-980b-6ad68b7701f8" "9a3bec39-fde1-43f7-abc9-f91641290cb4"
-			"9ad8114d-9dce-4ef1-ac67-4ab41df70030" "9bc56d5a-758f-449e-be05-87060044fdac"
-			"9c1af758-fcbd-4ac4-ad2e-c17175757cb0" "9d7db12e-3890-41d7-bfdb-6607d468c1d3"
-			"9d8f08c8-2d27-4e9c-85f9-3ece75228bb5" "9df3132f-974b-426d-b9e3-892a95fe22ef"
-			"9eca2fba-0693-44d7-9116-6a0923ad9f04" "a2b9c30d-f290-444a-9767-426ea184860a"
-			"a30d5df1-4504-457a-8aaa-6e4b923eff5a" "a3b7990b-b973-4e1a-8c6b-3512e8deab97"
-			"a5079e34-c3e8-40a7-a877-c1e35c9bc786" "a5724ec4-492e-4797-8b8d-f5cad30b8737"
-			"a628e8ae-adf7-48e9-a6ff-e3c35674c77a" "a7c4e165-c429-4f61-a09d-2806549d01e2"
-			"a7e0bd82-3416-4e34-9ee4-f7edbea61aae" "a9a12e58-0f5d-44cc-a653-226d84cda7b0"
-			"aa264a34-7ec3-414b-986b-969035b4a21b" "aaae0a88-6ebe-419f-8c38-acd59b8a164e"
-			"ab09d571-e058-42a5-9644-6351beccb01c" "ab3f493e-85cf-463d-abee-5e17b48e4957"
-			"ae4177cf-c5c1-4504-b767-74478a20f740" "afbe9c96-e382-4143-af7f-9a785b729633"
-			"b0462e71-7bab-4697-a479-fb47d7999a4f" "b132ab38-1a03-49e9-97e3-ed59e943d143"
-			"b427059c-fe85-42f9-a510-eefac7f42176" "b7f54b96-650d-46f4-b8c5-70b43919173a"
-			"b9b70795-7b1e-43d1-917e-45adf648a2ed" "bbd03fb2-cb2b-44ce-a9b5-d1e5bfb14900"
-			"bc500657-7763-4dec-ac0f-185bd756bb36" "bcc04ed3-3e1a-4f5c-803e-1ca68186ea1a"
-			"bee62a64-3c4c-4c79-a1c7-dc948ebec5fd" "bffdc2e8-7ac2-45bb-9016-91dc243738ba"
-			"c014bef0-b2bb-4414-9e1d-3d80606469a0" "c423f238-a01e-454d-b4fa-4837915802ce"
-			"c67f560c-5d3e-488c-a4a2-2d1727e1553f" "c8d6ab2c-4ad6-4b2d-af4a-fa87ef730992"
-			"ca11d782-4a3e-4560-a86e-4e855ce22b50" "cb4f6e3d-2f83-41f2-a42a-06fa478565c7"
-			"cbf3f829-d6bb-496e-b191-7100f782733f" "cd8eb397-81da-4504-99aa-e783cd3dabdc"
-			"ce9362cf-2cef-4813-b94a-b0579f4e70a8" "cf8747c5-a2d5-4f61-af64-b2d6023741a7"
-			"d3512dd4-3041-464a-abc3-6449fcef8904" "d59ba062-77be-42ac-82ab-c2022bbfcc9f"
-			"d7266e1c-0e43-4b99-a8a1-b280ebd74233" "d84612e1-c8c1-4417-929e-b5d770b60bc3"
-			"dabe98d7-cc70-43b8-b9d5-9d4b9632e5ad" "db3602e9-ce37-42a2-a7fe-504a4c2f75b0"
-			"dd983fd4-4557-4a0a-b043-630cd18fb319" "e004e52d-f403-489f-832f-8ce417e58b2d"
-			"e02dc88e-5e5f-4cac-b354-c2a676403870" "e0c61fc4-a446-4df3-babb-425c7b9fbb78"
-			"e40e0e8e-dde5-4662-bdb9-a21ef9ec5876" "e4b3cd22-9e75-4a03-aea2-d9c8d0abb251"
-			"e4ccfc28-cb22-4010-a0a2-ed8fae5a6ee5" "e61c000b-ad08-4c26-ba10-3d6e61a62352"
-			"e6766e95-1c29-4264-82ec-b51c42cdbc8a" "e79894b5-6e3a-46d1-9da1-dd3794784ab8"
-			"e836aba8-3c86-4fec-9fff-1f7a0a3512c4" "e9d1940c-3859-4126-9d3f-47d8104c355a"
-			"ea6d176b-c43d-4d93-894c-f84c6b312bd4" "eb7cc2c9-f0a0-43dd-a970-5ccb055ded72"
-			"ebdbccdb-eb50-4e65-b5e6-beeed40565a2" "eca7224c-983c-4f0e-9871-2b1408fef9b7"
-			"ecace619-a378-40d4-8b11-60280a2554f2" "ed039a41-9633-449a-a5d8-46b226684525"
-			"ee647e48-2e0b-4267-9da4-987f40c10300" "ee7ad88a-ca54-4a44-a212-d3ef1fb5b44f"
-			"efe43891-cf7f-411d-ad53-91458d7f09d2" "f381381c-54c6-49d9-ba23-3aa55ac2feb4"
-			"f5021782-bb0a-4042-b59c-4585d1f5f6b4" "f6f8f8e4-83b0-4fab-bab8-1ee9d4b05818"
-			"fb1ee14d-7ddb-445f-af3f-124a114ceab6" "fc12ca00-f176-4820-9219-bc6a80412696"
-			"fcbe4019-1e06-47cf-a573-e4fde0fca461" "ffdf9b96-545a-44b0-82f7-5d7dcb3da211"
-			"ffdff6e2-be28-4ec4-9b88-e48817493a29"
-		)
-	)
-	(group ""
-		(uuid "34da7668-9426-4bae-9f50-e6bc141f9b93")
-		(members "00ae48f1-324d-4453-980a-ca79aabc6f35" "0b5164fd-5019-4826-8f19-bbc500feac7c"
-			"0d28327e-ca18-473a-84cd-938d1fa92dfa" "2174ece5-ba07-4da6-9d36-99266e1e9af8"
-			"21c6f678-9aef-4996-8637-ad9db4a09b19" "44b36666-88df-4fe5-8422-043e47864ba7"
-			"48f0b88c-3e31-4fe9-9e67-2fd43ddaa785" "6f292794-f9a9-40c0-b14e-cac886834636"
-			"86a1b030-7c36-4067-909f-86b9fa69a192" "8f0727b8-700b-4ca9-89df-659a45bc78c3"
-			"c6a73d60-a09e-48d0-8f5a-9ae221b33df4" "c891a43b-5553-4664-9a3f-618195121d64"
-			"d71bdd7d-3f14-4c11-9f4e-b2abeff056ef" "d8846c93-fc5b-4afc-b15b-54bc0fa6e4f3"
-			"eaefd6d4-9675-4878-9326-6d578167c776" "f0a56be2-b5b4-4ca6-aca3-aa9f72012998"
-		)
-	)
-	(group ""
-		(uuid "584a25a0-2b3f-4fda-a37f-ab3f0c13b332")
-		(members "02964cc5-4ace-43c0-b5a1-5f85b258b30a" "04990597-fa48-4981-963e-d2bd536b7f86"
-			"066fbc3a-edb8-42d9-93a8-38661587cef4" "0d6bf6f2-1daa-4248-a547-78ee4b50938e"
-			"0e8ca7ec-aa42-4baa-8695-8fa12af3ba6a" "235c08b1-d3c1-4302-b78f-f23778173d83"
-			"29409909-893c-490e-b9e2-e740bd93e80d" "2f16d52d-00e6-4687-bb17-6ff17120375f"
-			"2fbd03c3-2cb9-4ca1-b891-9549f7bd40bc" "423291c0-05c1-435c-bfb9-94192228625a"
-			"503d5257-a3ec-4d93-bf11-91ffcb54abf6" "576f166e-02c8-4c5f-9edd-f6a0ae2b7383"
-			"5f8a6bc7-8118-47cc-8b15-55448456dcc0" "6653ed3b-4e4d-4251-b838-c9fdfc73dfb5"
-			"6d08a13e-090d-43d3-ba5d-2af518ac3d3e" "6ff515b6-08c0-4ec9-90ee-617a59eefe34"
-			"7c0e5a1d-8f1c-4b4b-a820-f83dcca1d834" "858a2aa5-7ad7-4bab-b96d-f03b42b277e2"
-			"87895fe9-3a27-42b3-bc5b-ed9800c78f7e" "8bb7971d-e7c1-4d9c-8a2d-a6f746b32462"
-			"8bbba2fe-212b-4335-ba92-6c3b0e7a6644" "8d35f492-651d-4b9e-b80b-d6dc8692695b"
-			"a1947904-2ab5-434d-95c6-5480ff947993" "a206c2ca-2124-4f38-9e2e-645bf29f523b"
-			"a29e4953-4433-4159-853d-62830621cc3a" "a4c2e9b8-597f-43fb-92e8-3e0b70b0397a"
-			"af8cdbe4-1da7-4531-8abe-8c58c0f3d010" "b2529eb5-034d-44ca-ba70-6088071804ab"
-			"be4e0a98-7e50-40c9-9e4b-ba39fa8142de" "c5b6a67a-c219-46df-b9a7-ded2b6c3248a"
-			"c76dc43b-1e74-4a98-bff9-d6a52a15e1c3" "cdbf9298-ccdb-42f2-a8a0-a9a2ff1746ff"
-			"d9417c4a-d989-4924-9c30-ea7c49fd618a" "dbcf52be-bc17-4e43-8f26-fb9eae96640e"
-			"dc7dd8e3-5f4e-4fa5-9d4e-76ed284502ad" "ed5cfa8e-61d5-40dc-be6e-b9baed0ea30c"
-		)
-	)
-	(generated
-		(uuid "e9d1940c-3859-4126-9d3f-47d8104c355a")
-		(type tuning_pattern)
-		(name "Tuning Pattern")
-		(layer "F.Cu")
-		(base_line
-			(pts
-				(xy 144.075 131.989975) (xy 144.075 131.993714)
-			)
-		)
-		(base_line_coupled
-			(pts
-				(xy 145.0625 131.989975) (xy 145.0625 131.993714)
-			)
-		)
-		(corner_radius_percent 80)
-		(end
-			(xy 144.075 131.993714)
-		)
-		(initial_side "left")
-		(last_diff_pair_gap 0.18)
-		(last_netname "/D-")
-		(last_status "too_short")
-		(last_track_width 0.2)
-		(last_tuning "-0.7899 mm (too short)")
-		(max_amplitude 1)
-		(min_amplitude 0.2)
-		(min_spacing 0.6)
-		(origin
-			(xy 144.075 131.989975)
-		)
-		(override_custom_rules no)
-		(rounded yes)
-		(single_sided no)
-		(target_length 1000000)
-		(target_length_max 1000000)
-		(target_length_min 0)
-		(target_skew 0)
-		(target_skew_max 0.1)
-		(target_skew_min -0.1)
-		(tuning_mode "diff_pair_skew")
-		(members "bef19309-6e2a-4bdd-8b29-0e76016dcf77")
-	)
-	(generated
-		(uuid "071f5c54-3367-4b7d-8c7f-170e38e3d9b0")
-		(type tuning_pattern)
-		(name "Tuning Pattern")
-		(layer "B.Cu")
-		(base_line
-			(pts
-				(xy 164.574999 85.645973) (xy 164.574999 85.340079)
-			)
-		)
-		(base_line_coupled
-			(pts
-				(xy 165.025001 85.645973) (xy 165.025001 85.620302)
-			)
-		)
-		(corner_radius_percent 80)
-		(end
-			(xy 164.574999 85.340079)
-		)
-		(initial_side "left")
-		(last_diff_pair_gap 0.18)
-		(last_netname "USB_D+")
-		(last_status "too_short")
-		(last_track_width 0.2)
-		(last_tuning "-2.9168 mm (too short)")
-		(max_amplitude 1)
-		(min_amplitude 0.2)
-		(min_spacing 0.6)
-		(origin
-			(xy 164.574999 85.645973)
-		)
-		(override_custom_rules no)
-		(rounded yes)
-		(single_sided no)
-		(target_length 1000000)
-		(target_length_max 1000000)
-		(target_length_min 0)
-		(target_skew 0)
-		(target_skew_max 0.1)
-		(target_skew_min -0.1)
-		(tuning_mode "diff_pair_skew")
-		(members "ecbb7058-6d1e-415b-b6bb-c37790d10abf")
-	)
-	(generated
-		(uuid "24ddf144-ec8e-45e8-b6f8-2a1ac4f553fa")
-		(type tuning_pattern)
-		(name "Tuning Pattern")
-		(layer "B.Cu")
-		(base_line
-			(pts
-				(xy 164.574999 82.6) (xy 164.574999 83.829972)
-			)
-		)
-		(base_line_coupled
-			(pts
-				(xy 165.025001 83.8) (xy 165.025001 83.829972)
-			)
-		)
-		(corner_radius_percent 80)
-		(end
-			(xy 164.574999 83.829972)
-		)
-		(initial_side "right")
-		(last_diff_pair_gap 0.18)
-		(last_netname "USB_D+")
-		(last_status "tuned")
-		(last_track_width 0.2)
-		(last_tuning "0.0000 mm (tuned)")
-		(max_amplitude 1.92)
-		(min_amplitude 0)
-		(min_spacing 0.6)
-		(origin
-			(xy 164.574999 82.6)
-		)
-		(override_custom_rules no)
-		(rounded yes)
-		(single_sided no)
-		(target_length 1000000)
-		(target_length_max 1000000)
-		(target_length_min 0)
-		(target_skew 0)
-		(target_skew_max 0.1)
-		(target_skew_min -0.1)
-		(tuning_mode "diff_pair_skew")
-		(members "00ae143e-9de9-41a1-9245-e4be7bb4228a" "0af32ec8-9ddf-4e5f-9431-435e11479e76"
-			"0f674e9e-7fb5-4867-81fc-ed8b5c091b71" "6daa1627-5ff4-4710-8a71-b58b0fa5a5fa"
-			"7e5f651e-fbac-409f-87d7-a38599c3500d" "8fd5de2a-9070-49b3-9b3d-b7a33fab2ff8"
-			"963d5eb1-906f-4444-8eb1-f812fc46c8de" "af01c530-d72d-4b52-a86d-2b2e0a7380d9"
-			"ca812dd7-70fd-4a38-aceb-4419cf9b0f62"
-		)
-	)
-	(generated
-		(uuid "9c1af758-fcbd-4ac4-ad2e-c17175757cb0")
-		(type tuning_pattern)
-		(name "Tuning Pattern")
-		(layer "B.Cu")
-		(base_line
-			(pts
-				(xy 164.574999 85.100397) (xy 164.574999 85.340079)
-			)
-		)
-		(base_line_coupled
-			(pts
-				(xy 165.025001 85.100397) (xy 165.025001 86.006694)
-			)
-		)
-		(corner_radius_percent 80)
-		(end
-			(xy 164.574999 85.340079)
-		)
-		(initial_side "right")
-		(last_diff_pair_gap 0.18)
-		(last_netname "USB_D+")
-		(last_status "too_short")
-		(last_track_width 0.2)
-		(last_tuning "-2.9168 mm (too short)")
-		(max_amplitude 1)
-		(min_amplitude 0.2)
-		(min_spacing 0.6)
-		(origin
-			(xy 164.574999 85.100397)
-		)
-		(override_custom_rules no)
-		(rounded yes)
-		(single_sided no)
-		(target_length 1000000)
-		(target_length_max 1000000)
-		(target_length_min 0)
-		(target_skew 0)
-		(target_skew_max 2147.483647)
-		(target_skew_min 0)
-		(tuning_mode "diff_pair_skew")
-		(members "16094bf4-aaf0-4454-95ed-f11b417c968d")
-	)
-	(generated
-		(uuid "aa264a34-7ec3-414b-986b-969035b4a21b")
-		(type tuning_pattern)
-		(name "Tuning Pattern")
-		(layer "B.Cu")
-		(base_line
-			(pts
-				(xy 164.574999 83.976275) (xy 164.574999 83.972321)
-			)
-		)
-		(base_line_coupled
-			(pts
-				(xy 165.025001 83.976275) (xy 165.025001 83.972321)
-			)
-		)
-		(corner_radius_percent 80)
-		(end
-			(xy 164.574999 83.972321)
-		)
-		(initial_side "left")
-		(last_diff_pair_gap 0.18)
-		(last_netname "USB_D+")
-		(last_status "too_short")
-		(last_track_width 0.2)
-		(last_tuning "-2.9168 mm (too short)")
-		(max_amplitude 1)
-		(min_amplitude 0.2)
-		(min_spacing 0.6)
-		(origin
-			(xy 164.574999 83.976275)
-		)
-		(override_custom_rules no)
-		(rounded yes)
-		(single_sided no)
-		(target_length 1000000)
-		(target_length_max 1000000)
-		(target_length_min 0)
-		(target_skew 0)
-		(target_skew_max 0.1)
-		(target_skew_min -0.1)
-		(tuning_mode "diff_pair_skew")
-		(members "71327b16-0ee5-470c-8765-06ff096f6a34")
 	)
 	(embedded_fonts no)
 )

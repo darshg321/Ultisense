@@ -16925,7 +16925,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.7uF"
+		(property "Value" "10uF"
 			(at 125.73 42.164 0)
 			(effects
 				(font
@@ -22401,7 +22401,7 @@
 		(at 21.59 187.96 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -22884,7 +22884,7 @@
 		(at 26.67 137.16 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "a94d228d-d419-449c-90fd-1ad094db8fd4")
@@ -24358,7 +24358,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.7uF"
+		(property "Value" "10uF"
 			(at 142.24 41.91 0)
 			(effects
 				(font
@@ -25117,7 +25117,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.7uF"
+		(property "Value" "10uF"
 			(at 176.53 31.75 0)
 			(effects
 				(font
@@ -26607,8 +26607,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "330"
-			(at 287.782 152.908 0)
+		(property "Value" "470"
+			(at 287.528 152.908 0)
 			(effects
 				(font
 					(size 1.27 1.27)
