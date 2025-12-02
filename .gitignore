@@ -24,6 +24,7 @@ fp-lib-table
 *-backups
 *#
 sym-lib-table
+fabrication-toolkit-options.json
 
 # Netlist files (exported from Eeschema)
 *.net

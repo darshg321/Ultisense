@@ -8,7 +8,6 @@ has:
 - VOC air sensor
 - humidity & temperature sensor
 - color & ambient light sensor
-- capacitive touch sensor
 - magnetometer
 
 it additionally has:
@@ -16,6 +15,6 @@ it additionally has:
 - two speakers
 - microSD card
 
-![](PCB_3D.png)
-![](PCB.png)
-![](Schematic.png)
+![](assets/PCB_3D.png)
+![](assets/PCB.png)
+![](assets/Schematic.png)
