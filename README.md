@@ -18,3 +18,11 @@ it additionally has:
 ![](assets/PCB_3D.png)
 ![](assets/PCB.png)
 ![](assets/Schematic.png)
+
+## BOM
+
+|Item|Qty                                        |Price (USD)                                |
+|----|-------------------------------------------|-------------------------------------------|
+|PCB |5                                          |4                                          |
+|PCBA|2                                          |161.91                                     |
+|Shipping (GSDL)|                                |12.36                                      |
