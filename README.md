@@ -15,6 +15,8 @@ it additionally has:
 - two speakers
 - microSD card
 
+
+![](assets/BUILD.PNG)
 ![](assets/PCB_3D.png)
 ![](assets/PCB.png)
 ![](assets/Schematic.png)
